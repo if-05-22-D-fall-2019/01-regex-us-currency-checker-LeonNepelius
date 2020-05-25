@@ -6,11 +6,11 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="UsCurrencyChecker" />
+        <module name="01-regex-checker-LeonNepelius" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="UsCurrencyChecker" target="1.8" />
+      <module name="01-regex-checker-LeonNepelius" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>

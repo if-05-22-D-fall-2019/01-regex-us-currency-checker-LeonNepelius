@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/UsCurrencyChecker.iml" filepath="$PROJECT_DIR$/UsCurrencyChecker.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/01-regex-checker-LeonNepelius.iml" filepath="$PROJECT_DIR$/.idea/01-regex-checker-LeonNepelius.iml" />
     </modules>
   </component>
 </project>
